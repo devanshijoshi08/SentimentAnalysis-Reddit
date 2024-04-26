@@ -1,0 +1,9 @@
+praw==7.6.0
+nltk==3.7
+pandas==1.4.3
+spacy==3.4.0
+numpy==1.23.1
+scikit-learn==1.1.1
+gensim==4.2.0
+tensorflow==2.9.1
+gensim-downloader==4.2.0
