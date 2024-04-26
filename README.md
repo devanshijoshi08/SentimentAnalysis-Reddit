@@ -15,7 +15,6 @@ This project involves collecting headlines from Reddit, processing the text data
 
 1. **Clone the Repository**
 git clone https://github.com/yourusername/reddit-sentiment-analysis.git
-cd reddit-sentiment-analysis
 
 2. **Install Dependencies**
 pip install -r requirements.txt
@@ -31,7 +30,6 @@ pip install -r requirements.txt
 
 4. **Running the Code**
 Select a virtual environment or a python environment to run for and execute the jupyter notebook file. 
-  ```
 
 ## Features
 
